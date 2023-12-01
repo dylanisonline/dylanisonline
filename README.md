@@ -1,7 +1,7 @@
 ### Hi there!
-**'Aspiring cybersecurity professional'**
------
 
+-----
+**'Aspiring cybersecurity professional'**
 ## My Projects
 -----
 
