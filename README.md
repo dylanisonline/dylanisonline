@@ -5,18 +5,20 @@
 
 I am Dylan and I recently just graduated from the University of Rochester. I have a major in Digital Media Studies (B.A.) and my passions lie in understanding and implementing technologies that I find interesting.
 
+<br>
+
+## My projects
 
 
 <br>
 
-## 👷 My Projects
+<h2> 📟 Connect with me </h2>
 
-- Network Mappings in 3 Levels (In Progress)
-- Microsoft Azure SIEM Lab
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
-<br>
-
-## 📟 Connect with me
-
-[twitter]: 
