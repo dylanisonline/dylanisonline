@@ -1,6 +1,5 @@
 ### Hi there!
 ### My name is Dylan and I am aspiring cybersecurity professional.
-### Here is some of my work
 -----
 
 ## My Projects
