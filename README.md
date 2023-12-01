@@ -7,9 +7,7 @@ I am Dylan and I recently just graduated from the University of Rochester. I hav
 
 <br>
 
-## My Projects
-
------
+### 👷 My Projects
 
 - Network Mappings in 3 Levels (In Progress)
 - Microsoft Azure SIEM Lab
