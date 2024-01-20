@@ -6,7 +6,7 @@ I am Dylan and I am currently studying at the University of Rochester. I have a 
 
 <br>
 
-## My projects
+## Projects
 - Cybersecurity Homelab
 - Packet Tracer Network Maps
 - Azure Honeypot with map visualization
@@ -15,7 +15,6 @@ I am Dylan and I am currently studying at the University of Rochester. I have a 
 
 ## Labs
 - Splunk
-- Security Onion
 - Active Directory
 
 
