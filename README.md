@@ -7,11 +7,17 @@ I am Dylan and I am currently studying at the University of Rochester. I have a 
 <br>
 
 ## My projects
-- Packet Tracer Network Mappings (3 Levels)
+- Cybersecurity Homelab
+- Packet Tracer Network Maps
 - Azure Honeypot with map visualization
-- Personalized Cloud with Nextcloud
 
 <br>
+
+## Labs
+- Splunk
+- Security Onion
+- Active Directory
+
 
 <h2> 📟 Connect with me </h2>
 
