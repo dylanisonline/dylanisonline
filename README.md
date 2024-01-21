@@ -10,13 +10,16 @@ I am Dylan and I am currently studying at the University of Rochester. I have a 
 - Cybersecurity Homelab
 - Packet Tracer Network Maps
 - Azure Honeypot with map visualization
+- Malware Report: iloveyou
 
 <br>
 
 ## Labs
 - Splunk
 - Active Directory
+- Wireshark
 
+<br>
 
 <h2> 📟 Connect with me </h2>
 
