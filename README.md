@@ -7,17 +7,18 @@ I am Dylan and I am currently studying at the University of Rochester. I have a 
 <br>
 
 ## Projects
-- Cybersecurity Homelab
-- Packet Tracer Network Maps
-- Azure Honeypot with map visualization
-- Malware Report: iloveyou
+
+#### Cybersecurity Homelab
+
+#### PacketTracer Maps
+
+#### Azure Sentinal Honeypot
+
+#### Active Directory Labs
+
+#### Splunk Labs
 
 <br>
-
-## Labs
-- Splunk
-- Active Directory
-- Wireshark
 
 <br>
 
