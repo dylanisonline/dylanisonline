@@ -14,9 +14,11 @@ I am Dylan and I am currently studying at the University of Rochester. I have a 
 
 #### Azure Sentinal Honeypot
 
-#### Active Directory Labs
+#### Active Directory Lab
 
-#### Splunk Labs
+#### Splunk Lab
+
+### Incident Report: DAO Hack 
 
 <br>
 
