@@ -18,7 +18,7 @@ I am Dylan and I am currently studying at the University of Rochester. I have a 
 
 #### Splunk Lab
 
-### Incident Report: DAO Hack 
+#### Incident Report: DAO Hack 
 
 <br>
 
