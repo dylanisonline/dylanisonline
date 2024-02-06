@@ -30,12 +30,4 @@ I am Dylan and I am currently studying at the University of Rochester. I have a 
 
 <h2> 📟 Connect with me </h2>
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
 LinkedIn
-
-
-<a href="https://samy.pl"><img src="https://cdn.svgator.com/images/2021/10/solar-system-animation.svg" width="100%" height="100%"></a>
