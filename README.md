@@ -14,9 +14,9 @@ I am Dylan and I am currently studying at the University of Rochester. I have a 
 
 #### Active Directory Environment []()
 
-#### AWS 
-
-#### Azure Sentinal Lab
+#### Azure Sentinal Lab []()
+ 
+#### AWS Journey Blog Series
 
 
 <br>
