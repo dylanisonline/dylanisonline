@@ -8,21 +8,6 @@ I am Dylan and I am currently studying at the University of Rochester. I have a 
 
 <br>
 
-## Projects
-
-#### [Cybersecurity Homelab](https://github.com/dylanisonline/cyber-homelab)
-
-#### Active Directory Environment []()
-
-#### Azure Sentinal Lab []()
- 
-#### AWS Journey Blog Series
-
-
-<br>
-
-<br>
-
 <h2> 📟 Connect with me </h2>
 
 LinkedIn
